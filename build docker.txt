@@ -1,0 +1,2 @@
+docker build -t miniprojekt .
+docker run miniprojek
